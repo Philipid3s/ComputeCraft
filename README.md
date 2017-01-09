@@ -1,2 +1,2 @@
-# ComputeCraft
-My little Computecraft programs with lua
+# ComputerCraft
+My first ComputerCraft programs in lua

@@ -1,2 +1,2 @@
 # ComputerCraft
-My first ComputerCraft programs in lua
+lua scripts for ComputerCraft Mod
